@@ -3,7 +3,7 @@ fun main(){
     var adalab =Human("Bridget",23,60.45)
     adalab.eat(3)
     println(adalab.weight)
-    adalab.speak("English")
+    adalab.speak("Iam loving kotlin")
 
     adalab.birthday()
     var student=User("Serena","Alpha","bridgetnakakandea@gmail.com","0757589859","Bridget@256")
